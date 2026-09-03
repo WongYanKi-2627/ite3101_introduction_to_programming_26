@@ -1,1 +1,1 @@
-print("Hello, wolrd! Or Hello vtc!")
+print("Hello, wolrd!")
