@@ -1,1 +1,1 @@
-odays_date
+todays_date
