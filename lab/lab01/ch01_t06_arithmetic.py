@@ -1,1 +1,1 @@
-product =
+product = 10*10
