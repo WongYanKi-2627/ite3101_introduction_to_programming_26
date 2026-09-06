@@ -1,1 +1,3 @@
-haiku = 
+haiku =
+"""The old pond,
+"""
