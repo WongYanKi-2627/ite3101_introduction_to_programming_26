@@ -1,6 +1,7 @@
 # Assign your variables below, each on its own line!
 Graham = "caesar"
-John = ""
+John = "praline"
+
 
 # Put your variables above this line, and uncomment the following 3 line of codes.
 # print(caesar)
