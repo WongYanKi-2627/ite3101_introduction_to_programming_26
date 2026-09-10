@@ -1,5 +1,5 @@
 # Assign your variables below, each on its own line!
-Graham = "caesar"
+Graham = "Graham"
 John = "praline"
 Teresa = "viking"
 
