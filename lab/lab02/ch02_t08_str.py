@@ -2,4 +2,4 @@
 then call your method on line 5!"""
 
 pi = 3.14
-print("Pi is: " + str(pi))
+print(str(pi))
