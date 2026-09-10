@@ -4,4 +4,4 @@
 a = True
 b = False
 age_is_12 = b
-name_is_maria = 
+name_is_maria = a
