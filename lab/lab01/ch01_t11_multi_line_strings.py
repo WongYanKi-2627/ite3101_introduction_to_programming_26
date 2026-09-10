@@ -1,5 +1,4 @@
-haiku = """
-The old pond,
+haiku ="""he old pond,
 A frog jumps in:
 Plop!
 """
