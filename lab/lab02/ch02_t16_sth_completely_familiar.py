@@ -2,3 +2,4 @@
 
 my_string = 'Hello, I am Yenki'
 print(len(my_string))
+print(my_string.upper())
