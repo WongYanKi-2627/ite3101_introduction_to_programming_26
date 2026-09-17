@@ -4,5 +4,4 @@ color = input("What is your favorite color? ")
 
 # Uncomment the below 2 line of code!
 
-
 wrong
