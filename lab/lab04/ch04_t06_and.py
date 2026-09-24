@@ -8,4 +8,4 @@ bool_four = None
 
 bool_five = None
 
-print
+print()
