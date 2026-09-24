@@ -12,5 +12,5 @@ bool_three = 30 >= 1 and 10 < 1
 bool_four = not 20 > 1
 
 # Make me true!
-bool_five = (2 <= 2) and "Alpha" == "Bravo"
+bool_five = 100 == 100 and 2000 > 100
 F
