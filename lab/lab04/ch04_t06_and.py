@@ -1,6 +1,6 @@
 bool_one = None
 
-bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
+bool_two = False
 
 bool_three = None
 
