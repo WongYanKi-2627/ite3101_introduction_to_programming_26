@@ -13,4 +13,4 @@ bool_three = 3*10 == 5*6
 bool_four = 2*8 >= 128
 
 # Make me true!
-bool_five = None
+bool_five = 1100 !=
