@@ -9,7 +9,7 @@ bool_two = 1 == 1 and 3 > 1
 # Make me false!
 bool_three = 30 >= 1 and 10 < 1
 # Make me true!
-bool_four = (2 <= 2) or "Alpha" == "Bravo"
+bool_four = not
 
 # Make me true!
 bool_five = (2 <= 2) and "Alpha" == "Bravo"
