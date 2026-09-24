@@ -2,7 +2,7 @@ bool_one = False
 
 bool_two = False
 
-bool_three = 19 % 4 != 300 / 10 / 10 and False
+bool_three = False
 
 bool_four = None
 
