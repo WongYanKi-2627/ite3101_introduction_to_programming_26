@@ -12,4 +12,4 @@ bool_three = (2 <= 2) and "Alpha" == "Bravo"
 bool_four = (2 <= 2) or "Alpha" == "Bravo" 
 
 # Make me true!
-bool_five = None
+bool_five = (2 <= 2) and "Alpha" == "Bravo" 
