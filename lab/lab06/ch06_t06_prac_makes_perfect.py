@@ -1,1 +1,1 @@
-def cud
+def cube()
