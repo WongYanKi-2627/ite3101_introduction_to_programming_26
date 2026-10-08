@@ -5,4 +5,6 @@ def one_good_turn(n: int):
 def deserves_another(n: int):
     return one_good_turn(n)
 
+
 one_good_turn = 80
+print(one_good_turn)
