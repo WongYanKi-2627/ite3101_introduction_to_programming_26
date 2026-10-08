@@ -9,4 +9,3 @@ def by_three(number: int):
         return False
 
 
-print(by_three(9))
