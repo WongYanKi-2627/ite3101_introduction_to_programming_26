@@ -1,3 +1,3 @@
-def distance_from_zero(s:num)->num:
-    if s == in,float
-        return abs.s
+def distance_from_zero(s: Any) -> Any:
+    if s == in, float
+    return abs.s
