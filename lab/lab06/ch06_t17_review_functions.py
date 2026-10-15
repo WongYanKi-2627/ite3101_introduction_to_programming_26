@@ -6,4 +6,5 @@ def shut_down(s: str) -> str:
     else:
         return "Sorry"
 
-print(shut_down("hello")
+
+#print(shut_down("hello"))
