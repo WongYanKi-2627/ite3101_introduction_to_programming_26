@@ -7,4 +7,4 @@ def shut_down(s: str) -> str:
 
 
 
-s("yes")
+s("")
