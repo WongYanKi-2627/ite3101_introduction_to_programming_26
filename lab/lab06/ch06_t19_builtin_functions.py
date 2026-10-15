@@ -1,4 +1,4 @@
-import tr from typing
+from typing import any
 
 
 def distance_from_zero(s: any) -> Any:
