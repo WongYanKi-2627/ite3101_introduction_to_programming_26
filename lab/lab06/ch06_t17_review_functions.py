@@ -7,5 +7,5 @@ def shut_down(s:str)->str:
         return "Sorry"
 
 
-shut_down()
+shut_down("hello")
         "
