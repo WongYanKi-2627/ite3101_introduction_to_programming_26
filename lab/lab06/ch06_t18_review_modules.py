@@ -1,3 +1,3 @@
 from math import sqrt
 
-def 
+def stuff(s:number)
