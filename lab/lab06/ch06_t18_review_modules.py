@@ -1,3 +1,3 @@
 from math import sqrt
 
-def stuff(s:number)
+print(sqrt(13689))
