@@ -1,6 +1,6 @@
-def shut_down(s:str)->str:
+def shut_down(s: str) -> str:
     if s == "yes":
-         return "Shutting down" 
+         return "Shutting down"
     if s == "no":
         return "Shutting aborted"
      return "Sorry"
