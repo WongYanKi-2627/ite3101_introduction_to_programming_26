@@ -1,3 +1,3 @@
 def distance_from_zero(s:num)->num:
-    if s == int:
+    if s == in or s ==
         return
