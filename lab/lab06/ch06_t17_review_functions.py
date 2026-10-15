@@ -8,4 +8,3 @@ def shut_down(s:str)->str:
 
 
 shut_down("hello")
-        "
