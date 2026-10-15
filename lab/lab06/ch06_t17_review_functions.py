@@ -6,4 +6,4 @@ def shut_down(s: str) -> str:
     else:
         return "Sorry"
 
-shutdown()
+shutdown("hello")
