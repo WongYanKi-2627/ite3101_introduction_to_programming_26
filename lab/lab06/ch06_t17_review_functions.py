@@ -5,4 +5,4 @@ def shut_down(s: str) -> str:
         return "Shutting aborted"
      return "Sorry"
 
-s("yes")
+s("hello")
