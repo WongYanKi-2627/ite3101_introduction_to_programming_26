@@ -7,3 +7,4 @@ def shut_down(s: str) -> str:
 
 
 
+s("hello")
