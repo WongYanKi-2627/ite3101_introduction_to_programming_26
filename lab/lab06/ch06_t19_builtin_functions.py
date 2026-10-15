@@ -1,1 +1,1 @@
-def distance_from_zero(s:num)
+def distance_from_zero(s:num)->nu
