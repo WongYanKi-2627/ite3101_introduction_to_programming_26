@@ -34,6 +34,5 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
 
 if __name__ == '__main__':
     # Change below line
-    print()
+    print(trip_cost("Los Angeles", 5, 600))
 
-print(trip_cost("Los Angeles", 5, 600))
