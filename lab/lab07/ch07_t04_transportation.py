@@ -18,3 +18,6 @@ def rental_car_cost(days:int):
     elif days >= 3:
         rental_car_cost -= 20
     return days*40
+
+rental_car_cost(6
+                )
