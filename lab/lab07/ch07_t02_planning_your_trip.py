@@ -1,1 +1,1 @@
-def hotel_cost(input(nights))
+def hotel_cost(input(nights)):
