@@ -25,4 +25,4 @@ def trip_cost(city:str,days:int) -> int:
     totalcost = rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
     return totalcost
 
-print(trip_cost("Tampa"))
+print(trip_cost("Tampa",7))
