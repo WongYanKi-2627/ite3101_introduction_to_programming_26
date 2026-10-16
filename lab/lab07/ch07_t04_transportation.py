@@ -23,4 +23,4 @@ def rental_car_cost(days: int) -> int:
         return "wrong answer"
 
 
-print(rental_car_cost(8))
+print(rental_car_cost(hello))
