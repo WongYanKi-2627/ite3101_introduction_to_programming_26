@@ -8,4 +8,9 @@ def plane_ride_cost(city:str):
         return 220
     elif city == "Pittsburgh":
         return 222
-    elif city == 
+    elif city == "Los Angeles":
+        return 475
+    return "Nope" 
+
+
+print(plane_ride_cost())
