@@ -21,8 +21,9 @@ def rental_car_cost(days: int) -> int:
         cost -= 20
     return cost
 
-def trip_cost(city:str,days:int) -> int:
+
+def trip_cost(city: str, days: int) -> int:
     totalcost = rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
     return totalcost
 
-print(trip_cost("Tampa",7))
+# print(trip_cost("Tampa",7))
