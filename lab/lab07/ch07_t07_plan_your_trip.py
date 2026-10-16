@@ -36,4 +36,4 @@ if __name__ == '__main__':
     # Change below line
     print()
 
-print(trip_cost())
+print(trip_cost(spending_money))
