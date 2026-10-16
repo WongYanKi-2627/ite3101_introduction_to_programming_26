@@ -11,6 +11,4 @@ def plane_ride_cost(city: str) -> int:
         return 222
     elif city == "Los Angeles":
         return 475
-    elif city == "":
-        return "None"
-    return "Nope"
+    
