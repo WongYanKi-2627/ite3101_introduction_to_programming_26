@@ -19,8 +19,8 @@ def rental_car_cost(days: int) -> int:
         cost -= 50
     elif days >= 3:
         cost -= 20
-    else:
-        return "nope"
+    elif:
+        "wrong answer"
 
 
 print(rental_car_cost(8))
