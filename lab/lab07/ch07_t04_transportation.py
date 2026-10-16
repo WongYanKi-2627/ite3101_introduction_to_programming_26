@@ -23,4 +23,4 @@ def rental_car_cost(days: int) -> int:
         return "nope"
 
 
-print(rental_car_cost(7))
+print(rental_car_cost(8))
