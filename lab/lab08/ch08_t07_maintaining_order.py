@@ -6,4 +6,4 @@ duck_index = animals.index("duck")  # Use index() to find "duck"
 
 print(animals)  # Observe what prints after the insert operation
 
-print duck_index
+print(duck_index)
