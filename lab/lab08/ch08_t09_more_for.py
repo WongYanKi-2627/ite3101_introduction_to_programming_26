@@ -7,3 +7,6 @@ for number in start_list:
 
 square_list.sort()
 print(square_list)
+
+
+print(len(square_list))
