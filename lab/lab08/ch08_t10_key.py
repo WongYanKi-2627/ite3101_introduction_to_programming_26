@@ -11,4 +11,4 @@ print(len(residents))
 
 
 testlist = [1,2,3,4]
-testdict = {}
+testdict = {"a":1,"b",2}
