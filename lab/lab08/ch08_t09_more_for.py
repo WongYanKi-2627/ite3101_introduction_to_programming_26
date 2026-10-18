@@ -6,7 +6,7 @@ for number in start_list:
     square_list.append(number**2)
 
 square_list.sort()
-print(square_list)
+print(square_list.sorted)
 
 
 #print(len(square_list))

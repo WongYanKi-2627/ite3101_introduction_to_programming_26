@@ -8,3 +8,6 @@ middle = suitcase[2:4]
 
 # The last two items (index four and five)
 last = suitcase[4:6]
+
+
+print(first)
