@@ -19,6 +19,8 @@ def rental_car_cost(days: int) -> int:
         cost -= 50
     elif days >= 3:
         cost -= 20
+    else:
+        return "wrong answer"
     return cost
 
 
@@ -27,4 +29,4 @@ def trip_cost(city: str, days: int) -> int:
     return totalcost
 
 # print(trip_cost("Tampa",7))
-printrental_car_cost(8)
+# print(rental_car_cost())
