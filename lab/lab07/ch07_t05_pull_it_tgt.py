@@ -27,3 +27,4 @@ def trip_cost(city: str, days: int) -> int:
     return totalcost
 
 # print(trip_cost("Tampa",7))
+testing = rental_car_cost()
