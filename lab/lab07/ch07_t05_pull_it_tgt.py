@@ -19,14 +19,16 @@ def rental_car_cost(days: int) -> int:
         cost -= 50
     elif days >= 3:
         cost -= 20
-    elif type(days) != int:
+    else type(days) != int:
         return "wrong answer"
     return cost
 
 
 def trip_cost(city: str, days: int) -> int:
-    totalcost = rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
+    totalcost = rental_car_cost(
+        days) + hotel_cost(days - 1) + plane_ride_cost(city)
     return totalcost
+
 
 # print(trip_cost("Tampa",7))
 print(rental_car_cost("a"))
