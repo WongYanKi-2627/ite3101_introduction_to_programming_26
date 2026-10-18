@@ -8,3 +8,7 @@ print(residents['Sloth'])
 print(residents['Burmese Python'])
 
 print(len(residents))
+
+
+testlist = [1,2,3,4]
+testdict = {}
