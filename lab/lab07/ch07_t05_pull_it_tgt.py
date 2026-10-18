@@ -33,4 +33,4 @@ def trip_cost(city: str, days: int) -> int:
 
 # print(trip_cost("Tampa",7))
 # print(rental_car_cost("a"))
-print(rental_car_cost(8))
+print(rental_car_cost(3))
