@@ -1,4 +1,4 @@
-def answer(smaller):
+def answer(smaller,bigger):
     return 42
 
 
