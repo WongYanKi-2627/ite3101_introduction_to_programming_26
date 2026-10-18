@@ -17,6 +17,7 @@ def rental_car_cost(days: int) -> int:
     cost = 40 * days
     if days >= 7:
         cost -= 50
+        return cost
     elif days >= 3:
         cost -= 20
     else type(days) != int:
