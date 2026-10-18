@@ -1,6 +1,6 @@
-def answer(smaller,bigger):
-    print(max(smaller,bigger))
+def answer(smaller, bigger):
+    print(max(smaller, bigger))
     return True
 
 
-answer()
+answer(10, 20)
