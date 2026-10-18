@@ -4,7 +4,7 @@ zoo_animals = ["pangolin", "cassowary", "sloth", "tiger"]
 
 # The ferocious sloth has been replaced by a friendly hyena.
 zoo_animals[2] = "hyena"
-
+print(zoo_animals)
 # What shall fill the void left by our dear departed tiger?
 # Your code here!
-#zoo_animals[3] = "panda"
+# zoo_animals[3] = "panda"
