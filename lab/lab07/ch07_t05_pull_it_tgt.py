@@ -16,8 +16,8 @@ def plane_ride_cost(city: str) -> int:
 def rental_car_cost(days) -> int:
     cost = 40 * days
     if type(days) != int:
-        
-    if days >= 7:
+        return "Wrong answer"
+    elif days >= 7:
         cost -= 50
         return cost
     elif days >= 3:
