@@ -11,5 +11,3 @@ def using_control_again() -> str:
 print(using_control_once())
 print(using_control_again())
 
-
-def testing2627(test:str) -
