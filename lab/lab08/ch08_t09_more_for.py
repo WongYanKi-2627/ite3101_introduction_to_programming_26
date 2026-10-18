@@ -13,4 +13,6 @@ print(square_list)
 
 test_list = [9, 3, 1, 7, 4]
 
-print(sortedtest_list)
+print(sorted(test_list))
+
+print(test_list)
