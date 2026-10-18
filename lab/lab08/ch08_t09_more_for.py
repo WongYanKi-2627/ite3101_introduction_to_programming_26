@@ -11,6 +11,6 @@ print(square_list)
 
 # print(len(square_list))
 
-test_list = [9,3,1,7,4]
-test_list.sort()
-print (test_list)
+test_list = [9, 3, 1, 7, 4]
+test_list.sort(reverse=True)
+print(test_list)
