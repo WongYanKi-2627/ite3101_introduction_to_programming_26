@@ -21,7 +21,8 @@ def rental_car_cost(days: int) -> int:
     elif days >= 3:
         cost -= 20
         return cost
-    elif type(d)
+    elif type(days) != int:
+        return "Wrong answer"
 
 
 def trip_cost(city: str, days: int) -> int:
