@@ -19,4 +19,4 @@ prices = {
 def compute_bill(food:List[int])->int:
     total = 0
     for x in food:
-        total =
+        total = (food)
