@@ -4,3 +4,4 @@ def fizz_count(x):
     for a in x:
         if x = "fizz":
             count = count + 1
+        return count
