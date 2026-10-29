@@ -11,8 +11,3 @@ print(square_list)
 
 # print(len(square_list))
 
-test_list = [9, 3, 1, 7, 4]
-
-print(sorted(test_list))
-
-print(test_list)
