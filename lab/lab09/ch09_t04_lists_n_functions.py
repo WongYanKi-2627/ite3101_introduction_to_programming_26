@@ -2,6 +2,6 @@
 def fizz_count(x) -> str:
     count = 0
     for fizz in x:
-        if x = "fizz":
+        if fizz = "fizz":
             count = count + 1
         return count
