@@ -16,4 +16,4 @@ prices = {
 
 # Write your code below!
 
-def computer_bill()
+def computer_bill(food:int)
