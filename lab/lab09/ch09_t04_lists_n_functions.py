@@ -1,6 +1,7 @@
 # Write your function below!
 
-from typ
+from typing import List
+
 def fizz_count(x:List)-> int :
     count = 0
     for z in x:
