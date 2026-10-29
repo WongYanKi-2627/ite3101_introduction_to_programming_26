@@ -13,3 +13,4 @@ stock = {
 
 
 for key in prices,stock:
+    
