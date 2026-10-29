@@ -10,4 +10,4 @@ def fizz_count(x:List[str])-> int :
     return count
 
 
-printfizz_count(["fizz","cat","fizz"])
+#print(fizz_count(["fizz","cat","fizz"]))
