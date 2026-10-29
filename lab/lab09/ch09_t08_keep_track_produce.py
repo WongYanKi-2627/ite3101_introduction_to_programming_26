@@ -14,4 +14,4 @@ stock = {
 
 for key in prices:
     print(key)
-    print("prices: ")
+    print("prices: " + str)
