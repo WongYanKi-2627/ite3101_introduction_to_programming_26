@@ -18,3 +18,4 @@ prices = {
 
 def compute_bill(food:int)->int:
     total = 0
+    for
