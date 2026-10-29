@@ -2,4 +2,4 @@
 def fizz_count(x):
     count = 0
     for a in x:
-        if
+        if n
