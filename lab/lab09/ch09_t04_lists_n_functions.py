@@ -7,4 +7,4 @@ def fizz_count(x:List[str])-> int :
     for z in x:
         if z == "fizz":
             count += 1
-        return count
+    return count
