@@ -12,5 +12,5 @@ stock = {
 }
 
 
-for key in prices,stock:
-    
+for key in prices:
+    print
