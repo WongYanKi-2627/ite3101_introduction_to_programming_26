@@ -12,4 +12,4 @@ stock = {
 }
 
 
-for key in
+for key in 
