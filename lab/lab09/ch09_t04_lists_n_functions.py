@@ -8,3 +8,6 @@ def fizz_count(x:List[str])-> int :
         if z == "fizz":
             count += 1
     return count
+
+
+printfizz_count(["fizz","cat","fizz"])
