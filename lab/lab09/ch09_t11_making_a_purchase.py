@@ -15,3 +15,5 @@ prices = {
 }
 
 # Write your code below!
+
+def computer_bill
