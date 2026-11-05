@@ -26,4 +26,4 @@ def average(numbers: List[float]) -> float:
 
 # Add your function below!
 
-def get_average(score:dict(float)) -> float:
+def get_average(student:dict(float)) -> float:
