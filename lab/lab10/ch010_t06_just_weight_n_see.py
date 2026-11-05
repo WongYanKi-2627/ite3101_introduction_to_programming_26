@@ -31,4 +31,4 @@ def get_average(student:dict(float)) -> float:
     homework = average(student["homework"])
     quizzes = average(student["quizzes"])
     tests = average(student["tests"])
-    return total =
+    return total = homework*
