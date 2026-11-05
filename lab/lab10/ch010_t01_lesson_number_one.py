@@ -3,5 +3,4 @@ lloyd = {
     "homework":
     "quizzes":
     "tests":
-
 }
