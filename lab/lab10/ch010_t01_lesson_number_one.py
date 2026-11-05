@@ -17,3 +17,4 @@ alice = {
     "homework":
     "quizzes":
     "tests":
+}
