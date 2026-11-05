@@ -28,8 +28,7 @@ def average(numbers: List[float]) -> float:
 
 
 def get_average(student: dict) -> float:
-    averagescore = 0
     homework = average(student["homework"])
     quizzes = average(student["quizzes"])
     tests = average(student["tests"])
-    return averagescore = homework*0.1 + quizzes*0.3 + tests*0.6
+    return homework*0.1 + quizzes*0.3 + tests*0.6
