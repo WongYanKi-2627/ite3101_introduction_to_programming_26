@@ -6,8 +6,10 @@ lloyd = {
 }
 
 alice = {
-    "name":"Lloyd"
+    "name":"Alice"
     "homework":
     "quizzes":
     "tests":
 }
+
+tyler
