@@ -12,4 +12,8 @@ alice = {
     "tests":
 }
 
-tyler
+alice = {
+    "name":"Alice"
+    "homework":
+    "quizzes":
+    "tests":
