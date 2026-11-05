@@ -59,4 +59,4 @@ def get_class_average(class_list: list[dict]) -> float:
     return average(results)
 
 
-print(get_class_average([]))
+print(get_class_average())
