@@ -24,4 +24,4 @@ def average(numbers:list[float]) -> float:
     total = 0
     total += sum(numbers)
     total = total / len(numbers)
-return total
+    return total
