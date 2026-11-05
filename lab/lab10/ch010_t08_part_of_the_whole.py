@@ -49,10 +49,12 @@ print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
 results = []
-class_list = [lloyd,alice,tyler]
-def get_class_average(class_list:list[dict]) -> float:
+class_list = [lloyd, alice, tyler]
+
+
+def get_class_average(class_list: list[dict]) -> float:
     results: list[float] = []
     for student in class_list:
         studentavg = get_average(student)
-        student_averages.append(studentavg)
+        results.append(studentavg)
     return average(results)
