@@ -20,3 +20,5 @@ tyler = {
 # Add your function below!
 
 def average(numbers(float)) -> float:
+    total = 0
+    
